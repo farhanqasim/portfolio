@@ -1209,8 +1209,11 @@ a:hover.back-to-top {
 	/* General Styles */
 	.h1-large {
 		font-size: 4.75rem;
-		line-height: 5.75rem;
+		line-height: 6.75rem;
 		
+	}
+	.typing-text{
+		font-size: 6.75rem;
 	}
 	/* end of general styles */
 
